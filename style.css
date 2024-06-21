@@ -71,7 +71,11 @@
         margin-top: 12rem !important;
     }
     .footer p{
-        font-size: 0.8rem;
+        font-size: 0.6rem;
+
+    }
+    .footer .row > div{
+        
     }
 
 }
